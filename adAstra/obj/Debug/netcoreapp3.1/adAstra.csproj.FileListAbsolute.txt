@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\bin\Debug\netcoreapp3.1\adAstra.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\bin\Debug\netcoreapp3.1\adAstra.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\bin\Debug\netcoreapp3.1\adAstra.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\bin\Debug\netcoreapp3.1\adAstra.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\bin\Debug\netcoreapp3.1\adAstra.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\bin\Debug\netcoreapp3.1\adAstra.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\adAstra\obj\Debug\netcoreapp3.1\adAstra.genruntimeconfig.cache
