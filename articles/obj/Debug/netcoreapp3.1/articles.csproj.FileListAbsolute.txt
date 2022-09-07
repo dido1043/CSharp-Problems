@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\bin\Debug\netcoreapp3.1\articles.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\bin\Debug\netcoreapp3.1\articles.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\bin\Debug\netcoreapp3.1\articles.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\bin\Debug\netcoreapp3.1\articles.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\bin\Debug\netcoreapp3.1\articles.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\bin\Debug\netcoreapp3.1\articles.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\articles\obj\Debug\netcoreapp3.1\articles.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\bin\Debug\netcoreapp3.1\movingTarget.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\movingTarget\obj\Debug\netcoreapp3.1\movingTarget.genruntimeconfig.cache

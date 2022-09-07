@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\bin\Debug\netcoreapp3.1\problem2.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\bin\Debug\netcoreapp3.1\problem2.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\bin\Debug\netcoreapp3.1\problem2.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\bin\Debug\netcoreapp3.1\problem2.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\bin\Debug\netcoreapp3.1\problem2.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\bin\Debug\netcoreapp3.1\problem2.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\problem2\obj\Debug\netcoreapp3.1\problem2.genruntimeconfig.cache

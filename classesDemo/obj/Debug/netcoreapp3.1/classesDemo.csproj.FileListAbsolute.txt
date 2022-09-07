@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.genruntimeconfig.cache

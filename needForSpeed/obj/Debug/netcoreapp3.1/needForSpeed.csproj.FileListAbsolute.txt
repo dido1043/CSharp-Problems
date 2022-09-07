@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\bin\Debug\netcoreapp3.1\needForSpeed.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\bin\Debug\netcoreapp3.1\needForSpeed.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\bin\Debug\netcoreapp3.1\needForSpeed.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\bin\Debug\netcoreapp3.1\needForSpeed.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\bin\Debug\netcoreapp3.1\needForSpeed.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\bin\Debug\netcoreapp3.1\needForSpeed.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\needForSpeed\obj\Debug\netcoreapp3.1\needForSpeed.genruntimeconfig.cache
