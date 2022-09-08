@@ -1,0 +1,14 @@
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\bin\Debug\netcoreapp3.1\students.exe
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\bin\Debug\netcoreapp3.1\students.deps.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\bin\Debug\netcoreapp3.1\students.runtimeconfig.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\bin\Debug\netcoreapp3.1\students.runtimeconfig.dev.json
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\bin\Debug\netcoreapp3.1\students.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\bin\Debug\netcoreapp3.1\students.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.csproj.AssemblyReference.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.AssemblyInfoInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.AssemblyInfo.cs
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.csproj.CoreCompileInputs.cache
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.dll
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.pdb
+D:\softuni\programming fundamentals\c# fund\Arrays\tasks\students\obj\Debug\netcoreapp3.1\students.genruntimeconfig.cache
